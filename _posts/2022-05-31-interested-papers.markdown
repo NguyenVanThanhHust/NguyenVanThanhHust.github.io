@@ -7,7 +7,7 @@ categories: [AI, Robotic]
 
 # Collection of interesting papers
 
-Title | Type | Paper link | Blog | Video | Code | 
---- | --- | --- | --- | --- | --- | 
-Learning Acrobatics by Watching YouTube | Robotic, Reinforcement Learning | [2018_TOG_SFV](https://xbpeng.github.io/projects/SFV/2018_TOG_SFV.pdf) | [Learning Acrobatics by Watching YouTube](https://bair.berkeley.edu/blog/2018/10/09/sfv/) | Unavailable | Unavailable | 
-Learning Acrobatics by Watching YouTube | Robotic, Reinforcement Learning | [2018_TOG_SFV](https://xbpeng.github.io/projects/SFV/2018_TOG_SFV.pdf) | [Learning Acrobatics by Watching YouTube](https://bair.berkeley.edu/blog/2018/10/09/sfv/) | Unavailable | Unavailable |
+Paper | Type | Blog | Video | Code | 
+--- | --- | --- | --- | --- | 
+[Learning Acrobatics by Watching YouTube](https://xbpeng.github.io/projects/SFV/2018_TOG_SFV.pdf) | Robotic, Reinforcement Learning | [Learning Acrobatics by Watching YouTube](https://bair.berkeley.edu/blog/2018/10/09/sfv/) | Unavailable | Unavailable | 
+[Automatic Bounding Box Annotation with Small Training Data Sets for Industrial Manufacturing](https://arxiv.org/abs/2206.00280) | Application, Industrial Application | Unavailable | Unavailable | Unavailable |

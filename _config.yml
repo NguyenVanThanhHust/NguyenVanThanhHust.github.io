@@ -26,10 +26,6 @@ social:
     - icon: fa-github
       link: "https://github.com/NguyenVanThanhHust"
 
-share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
-
 urls:
     - text: About Me
       url: /about/

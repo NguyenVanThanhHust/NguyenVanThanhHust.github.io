@@ -9,7 +9,7 @@ categories: [AI, Robotic]
 
 Paper | Type | Blog | Video | Code | Potential Application | 
 --- | --- | --- | --- | --- | --- | 
-[Learning Acrobatics by Watching YouTube](https://xbpeng.github.io/projects/SFV/2018_TOG_SFV.pdf) | Robotic, Reinforcement Learning | [Learning Acrobatics by Watching YouTube](https://bair.berkeley.edu/blog/2018/10/09/sfv/) | Unavailable | Unavailable | Bext install shd101wyy.markdown-preview-enhanceduild Robot imitate people |
+[Learning Acrobatics by Watching YouTube](https://xbpeng.github.io/projects/SFV/2018_TOG_SFV.pdf) | Robotic, Reinforcement Learning | [Learning Acrobatics by Watching YouTube](https://bair.berkeley.edu/blog/2018/10/09/sfv/) | Unavailable | Unavailable | Build Robot imitate people |
 [Automatic Bounding Box Annotation with Small Training Data Sets for Industrial Manufacturing](https://arxiv.org/abs/2206.00280) | Application, Industrial Application | Unavailable | Unavailable | Unavailable | Industrial Application |
 [Learning to Untangle Genome Assembly with Graph Convolutional Networks](arxiv.org/abs/2206.00668 ) | GNN, Genome | Unavailable | Unavailable | [GNNome-assembly](https://github.com/lvrcek/GNNome-assembly) | Industrial Application |
 [EfficientFormer: Vision Transformers at MobileNet Speed](arxiv.org/abs/2206.00668) | Transformer, Inference | Unavailable | Unavailable | Unavailable | Optimize for Inference, Better Backbone |

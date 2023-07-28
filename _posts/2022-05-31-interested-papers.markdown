@@ -2,7 +2,7 @@
 layout: post
 title:  "Interested papers"
 date:   2022-05-31 02:28:15 +0700
-categories: [AI, Robotic]
+categories: [AI, Robotic, Papers]
 ---
 
 # Collection of interesting papers
@@ -16,6 +16,8 @@ Paper | Type | Blog | Video | Code | Potential Application |
 [Vision GNN: An Image is Worth Graph of Nodes](arxiv.org/abs/2206.00272) | Transformer, GNN | Unavailable | Unavailable | [CV-Backbones](https://github.com/huawei-noah/CV-Backbones) | Better Backbone |
 [Use the Force Luke! Learning to Predict Physical Forces by Simulating Effects](https://arxiv.org/pdf/2003.12045) | Robotic, Physic | Unavailable | Unavailable | [CV-Backbones](https://github.com/huawei-noah/CV-Backbones) | Better Backbone |
 [AutoBag: Learning to Open Plastic Bags and Insert Object](https://arxiv.org/abs/2210.17217) | Robotic, Physic | Unavailable | Unavailable | Unavailable | Build Robot for home or in retail |
+[Aligning Step-by-Step Instructional Diagrams to Video Demonstrations](https://arxiv.org/abs/2303.13800) | Action Recognition | Unavailable | Unavailable | Unavailable | Build Robot that can learn from instruction manual |
+
 
 # To be update
 ACID: Action-Conditional Implicit Visual Dynamics for Deformable Object Manipulation

@@ -6,3 +6,6 @@ categories: [object tracking, ]
 ---
 
 # Object tracking
+
+## Reference
+Amazon dataset: [paper](https://arxiv.org/abs/2211.02175), [data](https://github.com/amazon-science/tracking-dataset)
